@@ -1,0 +1,4 @@
+ {"tipo": "Daño en avenida principalpal",
+  "descripcion": "Los conductores reportan un bache grande en la avenida principal que dificulta el 
+  tránsito de vehículos y bicicletas, y poniendo en riesgo la vida de los usuarios"
+}

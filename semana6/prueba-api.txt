@@ -1,0 +1,27 @@
+Prueba de API
+
+Se envió una petición POST a:
+
+http://localhost:3000/registro
+
+Con el siguiente JSON:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta del servidor:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Explicación:
+
+El servidor recibió correctamente los datos enviados en la petición POST.
+Luego devolvió una respuesta en formato JSON confirmando que los datos fueron recibidos.
+La respuesta incluye un mensaje de confirmación ("Datos recibidos") y muestra los 
+mismos valores de nombre y mensaje que fueron enviados.
